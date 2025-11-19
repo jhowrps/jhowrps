@@ -32,6 +32,7 @@ Atuei por anos como Analista de Suporte com experiência em manutenção de sist
         />
     </a>
 </p>
+<hr>
 
 ### 🤖 | Linguagens e Tecnologias
 
@@ -95,6 +96,8 @@ Essas são algumas das principais tecnologias que utilizo ou com as quais já tr
 />
 <br/>
 <br/>
+<hr>
+
 ### 📊 | Estatísticas
 
 <p>
