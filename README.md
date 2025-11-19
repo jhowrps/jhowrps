@@ -3,34 +3,21 @@
 
 **`Desenvolvedor Full Stack em Formação`**
 
-Atuei por anos como Analista de Suporte com experiência em manutenção de sistemas, redes, infraestrutura e tudo o que faz um ambiente de TI funcionar na prática. Com isso consegui uma base sólida para entender problemas, pensar em soluções rápidas e manter tudo de pé quando dá ruim rs.
-
-**Hoje estou em transição para o desenvolvimento.** Curso Análise e Desenvolvimento de Sistemas, estudo Programação com bastante dedicação e estou me aprofundando no universo web para me tornar um Desenvolvedor Full Stack.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-    <a href="https://www.linkedin.com/in/jhonattanromao/">
-        <img 
-            alt="Repositórios" 
-            title="Meus Repositórios"
-            width="30px" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
-    &nbsp;
-    <a href="https://github.com/jhowrps?tab=repositories">
-        <img 
-            alt="Repositórios" 
-            title="Meus Repositórios" 
-            src="https://custom-icon-badges.demolab.com/badge/-Repositórios-blue?style=for-the-badge&logoColor=white&logo=repo"
-        />
-    </a>
-    <a href="https://github.com/jhowrps?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/jhowrps?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+  Atuei por anos como Analista de Suporte com experiência em manutenção de sistemas, redes, infraestrutura e tudo o que faz um ambiente de TI funcionar na prática. Com isso consegui uma base sólida para entender problemas, pensar em soluções rápidas e manter tudo de pé quando dá ruim rs.
+  <br><br>
+  Atualmente estou em transição para o desenvolvimento. Curso Análise e Desenvolvimento de Sistemas, estudo Programação com bastante dedicação e estou me aprofundando no universo web para me tornar um Desenvolvedor Full Stack.
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jhonattanromao18@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jhonattanromao" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511948214863" alt="WhatsApp"/></a>
 </p>
 <hr>
 
