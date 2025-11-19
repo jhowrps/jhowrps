@@ -8,7 +8,16 @@ Atuei por anos como Analista de Suporte com experiência em manutenção de sist
 **Hoje estou em transição para o desenvolvimento.** Curso Análise e Desenvolvimento de Sistemas, estudo Programação com bastante dedicação e estou me aprofundando no universo web para me tornar um Desenvolvedor Full Stack.
 
 <p align="left"> 
-    <a href="https://github.com/jhowrps?tab=followers">
+    <a href="https://www.linkedin.com/in/jhonattanromao/">
+        <img 
+            alt="Repositórios" 
+            title="Meus Repositórios"
+            width="30px" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+        />
+    </a>
+    &nbsp;
+    <a href="https://github.com/jhowrps?tab=repositories">
         <img 
             alt="Repositórios" 
             title="Meus Repositórios" 
