@@ -66,7 +66,7 @@ Essas são algumas das principais tecnologias que utilizo ou com as quais já tr
     title="Django"
     width="40px" 
     style="padding-right: 10px; filter: brightness(0) invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 <img 
     align="left" 
@@ -103,5 +103,4 @@ Essas são algumas das principais tecnologias que utilizo ou com as quais já tr
       height="100"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowrps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
